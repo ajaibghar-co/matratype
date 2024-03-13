@@ -8,9 +8,9 @@ let player1, player2, player3, player4, player5, player6, player7, player8, play
 function preload() {
 	A = loadImage("images/Arpit_100px.png")
   B = loadImage("images/Bombay_100px.png")
-  C = loadImage("images/Bombay_100px.png")
-  D = loadImage("images/Bombay_100px.png")
-  E = loadImage("images/Bombay_100px.png")
+  C = loadImage("images/Mandir_100px.png")
+  D = loadImage("images/Purush_100px.png")
+  E = loadImage("images/Tailor_100px.png")
   F = loadImage("images/Bombay_100px.png")
   G = loadImage("images/Bombay_100px.png")
   H = loadImage("images/Bombay_100px.png")
