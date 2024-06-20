@@ -18,13 +18,13 @@ function preload() {
   J = loadImage("images/Bombay_100px.png")
 
   player1 = new Tone.Player({
-    url: "https://tonejs.github.io/audio/berklee/gong_1.mp3",
+    url: "https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/01c45be4-2ef3-11ef-a17f-02420a000107/5.2.nearafterarpit.mp3.wav",
     loop: true,
     // autostart: true,
   }).toDestination();
 
   player2 = new Tone.Player({
-    url: "https://tonejs.github.io/audio/berklee/gong_1.mp3",
+    url: "https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/01dd7476-2ef3-11ef-bd56-02420a000105/21.3.silence_ambraighat.mp3.wav",
     loop: true,
     // autostart: true,
   }).toDestination();
@@ -36,7 +36,7 @@ function preload() {
   }).toDestination();
 
   player4 = new Tone.Player({
-    url: "https://tonejs.github.io/audio/berklee/gong_1.mp3",
+    url: "https://storage.googleapis.com/dara-c1b52.appspot.com/daras_ai/media/01a78c44-2ef3-11ef-8681-02420a000108/21.4.miccheck_ambraighat.mp3.wav",
     loop: true,
     // autostart: true,
   }).toDestination();
